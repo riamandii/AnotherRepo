@@ -37,7 +37,6 @@ namespace Stuff1
                 Test();
             }
             //GC.Collect();
-            // test comment
             Console.ReadLine();
             while (true)
             {
